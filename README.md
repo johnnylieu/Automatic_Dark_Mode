@@ -5,6 +5,7 @@ This code uses a media query which finds the user's desktop setting (light or da
 
 ## Deployment
 Test it here: https://johnnylieu.github.io/Automatic_Dark_Mode/
+
 YouTube: https://www.youtube.com/watch?v=OKwVC17MyWk
 
 ## Credits
